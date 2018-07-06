@@ -1,0 +1,111 @@
+div {
+    border: 1px solid black;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+.login{
+    max-width: 340px;
+    margin:10% auto;
+    background: white;
+}
+.login h3{
+    text-align: center;
+    padding: 25px 10px;
+    background-color: white;
+    color: black;
+    font-size: 22px;
+    font-family: 'Amatic SC', cursive;
+    text-align: left;
+}
+.login h4{
+    padding: 25px 10px;
+    background-color: white;
+    color: black;
+    font-size: 22px;
+    font-family: 'Amatic SC', cursive;
+    align-content: right;
+    text-align: right;
+}
+
+form{
+    padding: 0;
+    margin: auto;
+    padding: 15px;
+}
+.inputform{
+    width: 90%;
+    padding: 1em;
+    margin-top: 1.2em;
+    color: #888;
+    font-size: 12px;
+    font-family: 'Francois One', sans-serif;
+}
+.submitform{
+    width: 50%;
+    padding: 1.4em;
+    margin: 1.5em 0;
+    color: #888;
+    background-color:orange ;
+    border:none;
+    color:#eee;
+    border-bottom: 4px solid transparent;
+    font-size: 15px;
+    font-family: 'Amatic SC', cursive;
+}
+.submitform:hover{
+    opacity: 0.8;
+    border-color: #00adb1;
+}
+form p{
+    text-align: center;
+    color: #888;
+    width: 30px;
+    margin: 10px auto 0;
+    background: #f9f9f9;
+    position: relative;
+    bottom: 20px;
+}
+.border-p{
+    border-top: 1px solid #888;
+    margin: 10px 10px;
+}
+button{
+    background-color: #3b5998;
+    width: 50%;
+    padding: 1.4em;
+    margin-bottom: 1em;
+    color: #888; ;
+    border:none;
+    color:#eee;
+    border-bottom: 4px solid transparent;
+    align-content: right;
+    text-align: right;
+}
+button:hover{
+    opacity: 0.9;
+    border-color: #3b3998;
+}
+.submitform2{
+    width: 50%;
+    padding: 1.4em;
+    margin: 1.5em 0;
+    color: #888;
+    background-color:green ;
+    border:none;
+    color:#eee;
+    border-bottom: 4px solid transparent;
+    font-size: 15px;
+    font-family: 'Amatic SC', cursive;
+    align-content: left;
+    align-items: left;
+    text-align: left;
+}
+.submitform:hover2{
+    opacity: 0.8;
+    border-color: #00adb1;
+}
+
+
